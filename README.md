@@ -1,1 +1,3 @@
 # wiggleCubes
+
+![Screenshot](screenshot.png)
